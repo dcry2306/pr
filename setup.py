@@ -1,15 +1,15 @@
 from setuptools import setup
 
 setup(
-    author='CryptoGu1',
-    author_email='Kriptoairdrop9@gmail.com',
+    author='dcry2306',
+    author_email='kilaz2306@gmail.com',
     name='GuDory',
     version='0.0.1',
-    description='A simple package for https://app.tea.xyz/. Example GuDory1 - https://github.com/CryptoGu1/GuDory1.git and GuDory2 - https://github.com/CryptoGu1/GuDory2.git',
+    description='A simple package for https://app.tea.xyz/. Example pr1 - https://github.com/dcry2306/pr2.git and pr2 - https://github.com/dcry2306/pr2.git',
     url='https://github.com/CryptoGu1/GuDory.git',
     project_urls={
-        'Homepage': 'https://github.com/CryptoGu1/GuDory.git',
-        'Source': 'https://github.com/CryptoGu1/GuDory.git',
+        'Homepage': 'https://github.com/dcry2306/pr1.git',
+        'Source': 'https://github.com/dcry2306/pr1.git',
     },
     py_modules=['hi_tea'],
     entry_points={
