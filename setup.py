@@ -23,8 +23,8 @@ setup(
     ],
     python_requires='>=3.6',
     install_requires=[
-        'GuDory1',
-        'GuDory2',
+        'pr2',
+        'pr3',
         # add your projects
     ],
 )
